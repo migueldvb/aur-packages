@@ -1,3 +1,6 @@
 [submodule "cueplot"]
 	path = cueplot
 	url = ssh://aur4.archlinux.org/cueplot.git
+[submodule "hdf5-fortran-openmpi"]
+	path = hdf5-fortran-openmpi
+	url = ssh://aur4.archlinux.org/hdf5-fortran-openmpi.git
