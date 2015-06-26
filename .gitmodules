@@ -40,3 +40,6 @@
 [submodule "python-sphinx-bootstrap-theme"]
 	path = python-sphinx-bootstrap-theme
 	url = ssh://aur4.archlinux.org/python-sphinx-bootstrap-theme.git
+[submodule "python-stscitools"]
+	path = python-stscitools
+	url = ssh://aur4.archlinux.org/python-stscitools.git
