@@ -16,3 +16,6 @@
 [submodule "python2-pyfits"]
 	path = python2-pyfits
 	url = ssh://aur4.archlinux.org/python2-pyfits.git
+[submodule "python2-stscitools"]
+	path = python2-stscitools
+	url = ssh://aur4.archlinux.org/python2-stscitools.git
