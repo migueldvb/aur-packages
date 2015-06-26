@@ -10,3 +10,6 @@
 [submodule "iraf-bin"]
 	path = iraf-bin
 	url = ssh://aur4.archlinux.org/iraf-bin.git
+[submodule "num-utils"]
+	path = num-utils
+	url = ssh://aur4.archlinux.org/num-utils.git
