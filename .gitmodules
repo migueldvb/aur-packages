@@ -28,3 +28,6 @@
 [submodule "python-django-guardian"]
 	path = python-django-guardian
 	url = ssh://aur4.archlinux.org/python-django-guardian.git
+[submodule "python-django-markdown-deux"]
+	path = python-django-markdown-deux
+	url = ssh://aur4.archlinux.org/python-django-markdown-deux.git
