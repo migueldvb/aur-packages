@@ -1,0 +1,3 @@
+[submodule "cueplot"]
+	path = cueplot
+	url = ssh://aur4.archlinux.org/cueplot.git
