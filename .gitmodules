@@ -19,3 +19,6 @@
 [submodule "python2-stscitools"]
 	path = python2-stscitools
 	url = ssh://aur4.archlinux.org/python2-stscitools.git
+[submodule "python-astropy-helpers"]
+	path = python-astropy-helpers
+	url = ssh://aur4.archlinux.org/python-astropy-helpers.git
