@@ -34,3 +34,6 @@
 [submodule "python-pyfits"]
 	path = python-pyfits
 	url = ssh://aur4.archlinux.org/python-pyfits.git
+[submodule "python-pyraf"]
+	path = python-pyraf
+	url = ssh://aur4.archlinux.org/python-pyraf.git
