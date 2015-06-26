@@ -13,3 +13,6 @@
 [submodule "num-utils"]
 	path = num-utils
 	url = ssh://aur4.archlinux.org/num-utils.git
+[submodule "python2-pyfits"]
+	path = python2-pyfits
+	url = ssh://aur4.archlinux.org/python2-pyfits.git
