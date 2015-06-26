@@ -31,3 +31,6 @@
 [submodule "python-django-markdown-deux"]
 	path = python-django-markdown-deux
 	url = ssh://aur4.archlinux.org/python-django-markdown-deux.git
+[submodule "python-pyfits"]
+	path = python-pyfits
+	url = ssh://aur4.archlinux.org/python-pyfits.git
