@@ -25,3 +25,6 @@
 [submodule "python-django-bootstrap3"]
 	path = python-django-bootstrap3
 	url = ssh://aur4.archlinux.org/python-django-bootstrap3.git
+[submodule "python-django-guardian"]
+	path = python-django-guardian
+	url = ssh://aur4.archlinux.org/python-django-guardian.git
