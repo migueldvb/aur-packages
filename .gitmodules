@@ -1,12 +1,15 @@
 [submodule "cueplot"]
 	path = cueplot
 	url = ssh://aur4.archlinux.org/cueplot.git
+	ignore = dirty
 [submodule "hdf5-fortran-openmpi"]
 	path = hdf5-fortran-openmpi
 	url = ssh://aur4.archlinux.org/hdf5-fortran-openmpi.git
+	ignore = dirty
 [submodule "iraf"]
 	path = iraf
 	url = ssh://aur4.archlinux.org/iraf.git
+	ignore = dirty
 [submodule "iraf-bin"]
 	path = iraf-bin
 	url = ssh://aur4.archlinux.org/iraf-bin.git
@@ -40,6 +43,7 @@
 [submodule "python-sphinx-bootstrap-theme"]
 	path = python-sphinx-bootstrap-theme
 	url = ssh://aur4.archlinux.org/python-sphinx-bootstrap-theme.git
+	ignore = dirty
 [submodule "python-stscitools"]
 	path = python-stscitools
 	url = ssh://aur4.archlinux.org/python-stscitools.git
