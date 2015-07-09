@@ -60,3 +60,6 @@
 	path = skychart
 	url = ssh://aur4.archlinux.org/skychart.git
 	ignore = dirty
+[submodule "python-numpy-doc"]
+	path = python-numpy-doc
+	url = ssh://aur4.archlinux.org/python-numpy-doc.git
