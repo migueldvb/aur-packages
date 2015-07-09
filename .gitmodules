@@ -52,3 +52,6 @@
 [submodule "xephem"]
 	path = xephem
 	url = ssh://aur4.archlinux.org/xephem.git
+[submodule "weatherman"]
+	path = weatherman
+	url = ssh://aur4.archlinux.org/weatherman.git
