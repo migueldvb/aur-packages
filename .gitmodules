@@ -72,3 +72,6 @@
 	path = gnudatalanguage
 	url = ssh://aur4.archlinux.org/gnudatalanguage.git
 	ignore = dirty
+[submodule "jags"]
+	path = jags
+	url = ssh://aur4.archlinux.org/jags.git
