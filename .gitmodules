@@ -55,6 +55,8 @@
 [submodule "weatherman"]
 	path = weatherman
 	url = ssh://aur4.archlinux.org/weatherman.git
+	ignore = dirty
 [submodule "skychart"]
 	path = skychart
 	url = ssh://aur4.archlinux.org/skychart.git
+	ignore = dirty
