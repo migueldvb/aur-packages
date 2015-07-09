@@ -55,3 +55,6 @@
 [submodule "weatherman"]
 	path = weatherman
 	url = ssh://aur4.archlinux.org/weatherman.git
+[submodule "skychart"]
+	path = skychart
+	url = ssh://aur4.archlinux.org/skychart.git
