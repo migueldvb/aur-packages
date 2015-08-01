@@ -25,6 +25,7 @@
 [submodule "python-astropy-helpers"]
 	path = python-astropy-helpers
 	url = ssh://aur4.archlinux.org/python-astropy-helpers.git
+	ignore = dirty
 [submodule "python-django-bootstrap3"]
 	path = python-django-bootstrap3
 	url = ssh://aur4.archlinux.org/python-django-bootstrap3.git
