@@ -78,6 +78,7 @@
 [submodule "jags"]
 	path = jags
 	url = ssh://aur4.archlinux.org/jags.git
+	ignore = dirty
 [submodule "plplot510"]
 	path = plplot510
 	url = ssh://aur4.archlinux.org/plplot510.git
