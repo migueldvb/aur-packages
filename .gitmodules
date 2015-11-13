@@ -49,6 +49,7 @@
 [submodule "python-stscitools"]
 	path = python-stscitools
 	url = ssh://aur4.archlinux.org/python-stscitools.git
+	ignore = dirty
 [submodule "python-yt-hg"]
 	path = python-yt-hg
 	url = ssh://aur4.archlinux.org/python-yt-hg.git
