@@ -42,6 +42,7 @@
 [submodule "python-pyraf"]
 	path = python-pyraf
 	url = ssh://aur4.archlinux.org/python-pyraf.git
+	ignore = dirty
 [submodule "python-sphinx-bootstrap-theme"]
 	path = python-sphinx-bootstrap-theme
 	url = ssh://aur4.archlinux.org/python-sphinx-bootstrap-theme.git
