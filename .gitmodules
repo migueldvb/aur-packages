@@ -89,3 +89,7 @@
 	path = plplot510
 	url = ssh://aur4.archlinux.org/plplot510.git
 	ignore = dirty
+[submodule "astrometry.net"]
+	path = astrometry.net
+	url = ssh://aur4.archlinux.org/astrometry.net.git
+	ignore = dirty
