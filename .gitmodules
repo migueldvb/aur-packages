@@ -93,3 +93,6 @@
 	path = astrometry.net
 	url = ssh://aur4.archlinux.org/astrometry.net.git
 	ignore = dirty
+[submodule "fitsh"]
+	path = fitsh
+	url = ssh://aur@aur.archlinux.org/fitsh.git
