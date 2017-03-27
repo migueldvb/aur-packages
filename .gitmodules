@@ -96,3 +96,6 @@
 [submodule "fitsh"]
 	path = fitsh
 	url = ssh://aur@aur.archlinux.org/fitsh.git
+[submodule "python-ginga"]
+	path = python-ginga
+	url = ssh://aur@aur.archlinux.org/python-ginga.git
