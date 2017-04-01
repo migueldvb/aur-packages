@@ -101,3 +101,4 @@
 [submodule "python-ginga"]
 	path = python-ginga
 	url = ssh://aur@aur.archlinux.org/python-ginga.git
+	ignore = dirty
