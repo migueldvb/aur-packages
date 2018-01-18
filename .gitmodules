@@ -102,3 +102,6 @@
 	path = python-ginga
 	url = ssh://aur@aur.archlinux.org/python-ginga.git
 	ignore = dirty
+[submodule "python-astroquery"]
+	path = python-astroquery
+	url = ssh://aur4.archlinux.org/python-astroquery.git
