@@ -108,3 +108,7 @@
 [submodule "python2-astropy-helpers"]
 	path = python2-astropy-helpers
 	url = ssh://aur4.archlinux.org/python2-astropy-helpers.git
+[submodule "python-astroquery-git"]
+	path = python-astroquery-git
+	url = ssh://aur4.archlinux.org/python-astroquery-git.git
+	ignore = dirty
