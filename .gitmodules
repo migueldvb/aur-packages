@@ -101,3 +101,12 @@
 [submodule "python-yt"]
 	path = python-yt
 	url = ssh://aur@aur.archlinux.org/python-yt.git
+[submodule "python-pytest-astropy-meta"]
+	path = python-pytest-astropy-meta
+	url = ssh://aur@aur.archlinux.org/python-pytest-astropy-meta
+[submodule "python-sbpy"]
+	path = python-sbpy
+	url = ssh://aur@aur.archlinux.org/python-sbpy
+[submodule "python-sbpy-doc"]
+	path = python-sbpy-doc
+	url = ssh://aur@aur.archlinux.org/python-sbpy-doc
