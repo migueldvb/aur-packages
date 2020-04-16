@@ -67,9 +67,9 @@
 	path = weatherman
 	url = ssh://aur4.archlinux.org/weatherman.git
 	ignore = dirty
-[submodule "skychart"]
-	path = skychart
-	url = ssh://aur4.archlinux.org/skychart.git
+[submodule "skychart-bin"]
+	path = skychart-bin
+	url = ssh://aur4.archlinux.org/skychart-bin.git
 	ignore = dirty
 [submodule "python-numpy-doc"]
 	path = python-numpy-doc
