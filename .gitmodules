@@ -2,10 +2,6 @@
 	path = cueplot
 	url = ssh://aur@aur.archlinux.org/cueplot.git
 	ignore = dirty
-[submodule "hdf5-fortran-openmpi"]
-	path = hdf5-fortran-openmpi
-	url = ssh://aur4.archlinux.org/hdf5-fortran-openmpi.git
-	ignore = dirty
 [submodule "iraf"]
 	path = iraf
 	url = ssh://aur@aur.archlinux.org/iraf.git
@@ -33,10 +29,6 @@
 	path = python-django-bootstrap3
 	url = ssh://aur@aur.archlinux.org/python-django-bootstrap3.git
 	ignore = dirty
-[submodule "python-django-guardian"]
-	path = python-django-guardian
-	url = ssh://aur@aur.archlinux.org/python-django-guardian.git
-	ignore = dirty
 [submodule "python-django-markdown-deux"]
 	path = python-django-markdown-deux
 	url = ssh://aur@aur.archlinux.org/python-django-markdown-deux.git
@@ -60,10 +52,6 @@
 	path = xephem
 	url = ssh://aur@aur.archlinux.org/xephem.git
 	ignore = dirty
-[submodule "weatherman"]
-	path = weatherman
-	url = ssh://aur@aur.archlinux.org/weatherman.git
-	ignore = dirty
 [submodule "skychart-bin"]
 	path = skychart-bin
 	url = ssh://aur@aur.archlinux.org/skychart-bin.git
@@ -79,10 +67,6 @@
 [submodule "jags"]
 	path = jags
 	url = ssh://aur@aur.archlinux.org/jags.git
-	ignore = dirty
-[submodule "plplot510"]
-	path = plplot510
-	url = ssh://aur4.archlinux.org/plplot510.git
 	ignore = dirty
 [submodule "astrometry.net"]
 	path = astrometry.net
