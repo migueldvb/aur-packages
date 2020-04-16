@@ -2,111 +2,149 @@
 	path = cueplot
 	url = ssh://aur@aur.archlinux.org/cueplot.git
 	ignore = dirty
+	branch = master
 [submodule "iraf"]
 	path = iraf
 	url = ssh://aur@aur.archlinux.org/iraf.git
 	ignore = dirty
+	branch = master
 [submodule "iraf-bin"]
 	path = iraf-bin
 	url = ssh://aur@aur.archlinux.org/iraf-bin.git
 	ignore = dirty
+	branch = master
 [submodule "num-utils"]
 	path = num-utils
 	url = ssh://aur@aur.archlinux.org/num-utils.git
+	ignore = dirty
+	branch = master
 [submodule "python2-pyfits"]
 	path = python2-pyfits
 	url = ssh://aur@aur.archlinux.org/python2-pyfits.git
 	ignore = dirty
+	branch = master
 [submodule "python2-stscitools"]
 	path = python2-stscitools
 	url = ssh://aur@aur.archlinux.org/python2-stscitools.git
 	ignore = dirty
+	branch = master
 [submodule "python-astropy-helpers"]
 	path = python-astropy-helpers
 	url = ssh://aur@aur.archlinux.org/python-astropy-helpers.git
 	ignore = dirty
+	branch = master
 [submodule "python-django-bootstrap3"]
 	path = python-django-bootstrap3
 	url = ssh://aur@aur.archlinux.org/python-django-bootstrap3.git
 	ignore = dirty
+	branch = master
 [submodule "python-django-markdown-deux"]
 	path = python-django-markdown-deux
 	url = ssh://aur@aur.archlinux.org/python-django-markdown-deux.git
+	ignore = dirty
+	branch = master
 [submodule "python-pyfits"]
 	path = python-pyfits
 	url = ssh://aur@aur.archlinux.org/python-pyfits.git
 	ignore = dirty
+	branch = master
 [submodule "python-pyraf"]
 	path = python-pyraf
 	url = ssh://aur@aur.archlinux.org/python-pyraf.git
 	ignore = dirty
+	branch = master
 [submodule "python-sphinx-bootstrap-theme"]
 	path = python-sphinx-bootstrap-theme
 	url = ssh://aur@aur.archlinux.org/python-sphinx-bootstrap-theme.git
 	ignore = dirty
+	branch = master
 [submodule "python-stscitools"]
 	path = python-stscitools
 	url = ssh://aur@aur.archlinux.org/python-stscitools.git
 	ignore = dirty
+	branch = master
 [submodule "xephem"]
 	path = xephem
 	url = ssh://aur@aur.archlinux.org/xephem.git
 	ignore = dirty
+	branch = master
 [submodule "skychart-bin"]
 	path = skychart-bin
 	url = ssh://aur@aur.archlinux.org/skychart-bin.git
 	ignore = dirty
+	branch = master
 [submodule "python-numpy-doc"]
 	path = python-numpy-doc
 	url = ssh://aur@aur.archlinux.org/python-numpy-doc.git
 	ignore = dirty
+	branch = master
 [submodule "plplot"]
 	path = plplot
 	url = ssh://aur@aur.archlinux.org/plplot.git
 	ignore = dirty
+	branch = master
 [submodule "jags"]
 	path = jags
 	url = ssh://aur@aur.archlinux.org/jags.git
 	ignore = dirty
+	branch = master
 [submodule "astrometry.net"]
 	path = astrometry.net
 	url = ssh://aur@aur.archlinux.org/astrometry.net.git
 	ignore = dirty
+	branch = master
 [submodule "fitsh"]
 	path = fitsh
 	url = ssh://aur@aur.archlinux.org/fitsh.git
 	ignore = dirty
+	branch = master
 [submodule "python-ginga"]
 	path = python-ginga
 	url = ssh://aur@aur.archlinux.org/python-ginga.git
 	ignore = dirty
+	branch = master
 [submodule "python-astroquery"]
 	path = python-astroquery
 	url = ssh://aur@aur.archlinux.org/python-astroquery.git
 	ignore = dirty
+	branch = master
 [submodule "python2-astropy-helpers"]
 	path = python2-astropy-helpers
 	url = ssh://aur@aur.archlinux.org/python2-astropy-helpers.git
 	ignore = dirty
+	branch = master
 [submodule "python-astroquery-git"]
 	path = python-astroquery-git
 	url = ssh://aur@aur.archlinux.org/python-astroquery-git.git
 	ignore = dirty
+	branch = master
 [submodule "python2-yt"]
 	path = python2-yt
 	url = ssh://aur@aur.archlinux.org/python2-yt.git
+	ignore = dirty
+	branch = master
 [submodule "python-yt-git"]
 	path = python-yt-git
 	url = ssh://aur@aur.archlinux.org/python-yt-git.git
+	ignore = dirty
+	branch = master
 [submodule "python-yt"]
 	path = python-yt
 	url = ssh://aur@aur.archlinux.org/python-yt.git
+	ignore = dirty
+	branch = master
 [submodule "python-pytest-astropy-meta"]
 	path = python-pytest-astropy-meta
 	url = ssh://aur@aur.archlinux.org/python-pytest-astropy-meta
+	ignore = dirty
+	branch = master
 [submodule "python-sbpy"]
 	path = python-sbpy
 	url = ssh://aur@aur.archlinux.org/python-sbpy
+	ignore = dirty
+	branch = master
 [submodule "python-sbpy-doc"]
 	path = python-sbpy-doc
 	url = ssh://aur@aur.archlinux.org/python-sbpy-doc
+	ignore = dirty
+	branch = master
