@@ -1,6 +1,6 @@
 [submodule "cueplot"]
 	path = cueplot
-	url = ssh://aur4.archlinux.org/cueplot.git
+	url = ssh://aur@aur.archlinux.org/cueplot.git
 	ignore = dirty
 [submodule "hdf5-fortran-openmpi"]
 	path = hdf5-fortran-openmpi
@@ -8,77 +8,77 @@
 	ignore = dirty
 [submodule "iraf"]
 	path = iraf
-	url = ssh://aur4.archlinux.org/iraf.git
+	url = ssh://aur@aur.archlinux.org/iraf.git
 	ignore = dirty
 [submodule "iraf-bin"]
 	path = iraf-bin
-	url = ssh://aur4.archlinux.org/iraf-bin.git
+	url = ssh://aur@aur.archlinux.org/iraf-bin.git
 	ignore = dirty
 [submodule "num-utils"]
 	path = num-utils
-	url = ssh://aur4.archlinux.org/num-utils.git
+	url = ssh://aur@aur.archlinux.org/num-utils.git
 [submodule "python2-pyfits"]
 	path = python2-pyfits
-	url = ssh://aur4.archlinux.org/python2-pyfits.git
+	url = ssh://aur@aur.archlinux.org/python2-pyfits.git
 	ignore = dirty
 [submodule "python2-stscitools"]
 	path = python2-stscitools
-	url = ssh://aur4.archlinux.org/python2-stscitools.git
+	url = ssh://aur@aur.archlinux.org/python2-stscitools.git
 	ignore = dirty
 [submodule "python-astropy-helpers"]
 	path = python-astropy-helpers
-	url = ssh://aur4.archlinux.org/python-astropy-helpers.git
+	url = ssh://aur@aur.archlinux.org/python-astropy-helpers.git
 	ignore = dirty
 [submodule "python-django-bootstrap3"]
 	path = python-django-bootstrap3
-	url = ssh://aur4.archlinux.org/python-django-bootstrap3.git
+	url = ssh://aur@aur.archlinux.org/python-django-bootstrap3.git
 	ignore = dirty
 [submodule "python-django-guardian"]
 	path = python-django-guardian
-	url = ssh://aur4.archlinux.org/python-django-guardian.git
+	url = ssh://aur@aur.archlinux.org/python-django-guardian.git
 	ignore = dirty
 [submodule "python-django-markdown-deux"]
 	path = python-django-markdown-deux
-	url = ssh://aur4.archlinux.org/python-django-markdown-deux.git
+	url = ssh://aur@aur.archlinux.org/python-django-markdown-deux.git
 [submodule "python-pyfits"]
 	path = python-pyfits
-	url = ssh://aur4.archlinux.org/python-pyfits.git
+	url = ssh://aur@aur.archlinux.org/python-pyfits.git
 	ignore = dirty
 [submodule "python-pyraf"]
 	path = python-pyraf
-	url = ssh://aur4.archlinux.org/python-pyraf.git
+	url = ssh://aur@aur.archlinux.org/python-pyraf.git
 	ignore = dirty
 [submodule "python-sphinx-bootstrap-theme"]
 	path = python-sphinx-bootstrap-theme
-	url = ssh://aur4.archlinux.org/python-sphinx-bootstrap-theme.git
+	url = ssh://aur@aur.archlinux.org/python-sphinx-bootstrap-theme.git
 	ignore = dirty
 [submodule "python-stscitools"]
 	path = python-stscitools
-	url = ssh://aur4.archlinux.org/python-stscitools.git
+	url = ssh://aur@aur.archlinux.org/python-stscitools.git
 	ignore = dirty
 [submodule "xephem"]
 	path = xephem
-	url = ssh://aur4.archlinux.org/xephem.git
+	url = ssh://aur@aur.archlinux.org/xephem.git
 	ignore = dirty
 [submodule "weatherman"]
 	path = weatherman
-	url = ssh://aur4.archlinux.org/weatherman.git
+	url = ssh://aur@aur.archlinux.org/weatherman.git
 	ignore = dirty
 [submodule "skychart-bin"]
 	path = skychart-bin
-	url = ssh://aur4.archlinux.org/skychart-bin.git
+	url = ssh://aur@aur.archlinux.org/skychart-bin.git
 	ignore = dirty
 [submodule "python-numpy-doc"]
 	path = python-numpy-doc
-	url = ssh://aur4.archlinux.org/python-numpy-doc.git
+	url = ssh://aur@aur.archlinux.org/python-numpy-doc.git
 	ignore = dirty
 [submodule "plplot"]
 	path = plplot
-	url = ssh://aur4.archlinux.org/plplot.git
+	url = ssh://aur@aur.archlinux.org/plplot.git
 	ignore = dirty
 [submodule "jags"]
 	path = jags
-	url = ssh://aur4.archlinux.org/jags.git
+	url = ssh://aur@aur.archlinux.org/jags.git
 	ignore = dirty
 [submodule "plplot510"]
 	path = plplot510
@@ -86,7 +86,7 @@
 	ignore = dirty
 [submodule "astrometry.net"]
 	path = astrometry.net
-	url = ssh://aur4.archlinux.org/astrometry.net.git
+	url = ssh://aur@aur.archlinux.org/astrometry.net.git
 	ignore = dirty
 [submodule "fitsh"]
 	path = fitsh
@@ -98,15 +98,15 @@
 	ignore = dirty
 [submodule "python-astroquery"]
 	path = python-astroquery
-	url = ssh://aur4.archlinux.org/python-astroquery.git
+	url = ssh://aur@aur.archlinux.org/python-astroquery.git
 	ignore = dirty
 [submodule "python2-astropy-helpers"]
 	path = python2-astropy-helpers
-	url = ssh://aur4.archlinux.org/python2-astropy-helpers.git
+	url = ssh://aur@aur.archlinux.org/python2-astropy-helpers.git
 	ignore = dirty
 [submodule "python-astroquery-git"]
 	path = python-astroquery-git
-	url = ssh://aur4.archlinux.org/python-astroquery-git.git
+	url = ssh://aur@aur.archlinux.org/python-astroquery-git.git
 	ignore = dirty
 [submodule "python2-yt"]
 	path = python2-yt
