@@ -56,9 +56,6 @@
 	path = python-stscitools
 	url = ssh://aur4.archlinux.org/python-stscitools.git
 	ignore = dirty
-[submodule "python-yt-hg"]
-	path = python-yt-hg
-	url = ssh://aur4.archlinux.org/python-yt-hg.git
 [submodule "xephem"]
 	path = xephem
 	url = ssh://aur4.archlinux.org/xephem.git
@@ -111,3 +108,12 @@
 	path = python-astroquery-git
 	url = ssh://aur4.archlinux.org/python-astroquery-git.git
 	ignore = dirty
+[submodule "python2-yt"]
+	path = python2-yt
+	url = ssh://aur@aur.archlinux.org/python2-yt.git
+[submodule "python-yt-git"]
+	path = python-yt-git
+	url = ssh://aur@aur.archlinux.org/python-yt-git.git
+[submodule "python-yt"]
+	path = python-yt
+	url = ssh://aur@aur.archlinux.org/python-yt.git
