@@ -1,4 +1,4 @@
 aur-packages
 ------------------
 
-Source of [my AUR4 packages](https://aur4.archlinux.org/packages/?SeB=m&K=migueldvb).
+Source of [my AUR packages](https://aur.archlinux.org/packages/?SeB=m&K=gypaetus).
