@@ -148,3 +148,7 @@
 	url = ssh://aur@aur.archlinux.org/python-sbpy-doc
 	ignore = dirty
 	branch = master
+[submodule "python-synphot"]
+	path = python-synphot
+	url = ssh://aur@aur.archlinux.org/python-synphot
+	ignore = dirty
