@@ -156,3 +156,7 @@
 	path = python-linetools
 	url = ssh://aur@aur.archlinux.org/python-linetools.git
 	ignore = dirty
+[submodule "python-agnpy"]
+	path = python-agnpy
+	url = ssh://aur@aur.archlinux.org/python-agnpy.git
+	ignore = dirty
