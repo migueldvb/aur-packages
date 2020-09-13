@@ -152,3 +152,7 @@
 	path = python-synphot
 	url = ssh://aur@aur.archlinux.org/python-synphot
 	ignore = dirty
+[submodule "python-linetools"]
+	path = python-linetools
+	url = ssh://aur@aur.archlinux.org/python-linetools.git
+	ignore = dirty
