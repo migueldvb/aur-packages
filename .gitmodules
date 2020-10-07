@@ -160,3 +160,6 @@
 	path = python-agnpy
 	url = ssh://aur@aur.archlinux.org/python-agnpy.git
 	ignore = dirty
+[submodule "python-astropy"]
+	path = python-astropy
+	url = ssh://aur@aur.archlinux.org/python-astropy.git
