@@ -163,3 +163,6 @@
 [submodule "python-astropy"]
 	path = python-astropy
 	url = ssh://aur@aur.archlinux.org/python-astropy.git
+[submodule "python-astropy-healpix"]
+	path = python-astropy-healpix
+	url = ssh://aur@aur.archlinux.org/python-astropy-healpix.git
