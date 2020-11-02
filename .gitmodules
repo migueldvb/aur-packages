@@ -166,3 +166,6 @@
 [submodule "python-astropy-healpix"]
 	path = python-astropy-healpix
 	url = ssh://aur@aur.archlinux.org/python-astropy-healpix.git
+[submodule "python-ccdproc"]
+	path = python-ccdproc
+	url = ssh://aur@aur.archlinux.org/python-ccdproc.git
